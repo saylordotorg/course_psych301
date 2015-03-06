@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH301: Social Psychology"
+course_description: "An examination of the different ways in which people interact with other individuals, groups, and the larger society as a whole, as well as why people act in certain ways."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: PSYCH301 Final Exam** <span id="9"></span> 
 -   **Final Exam: The Saylor Foundation’s “PSYCH301 Final Exam”**
     Link: The Saylor Foundation’s [“PSYCH301 Final

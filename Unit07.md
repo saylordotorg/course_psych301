@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH301: Social Psychology"
+course_description: "An examination of the different ways in which people interact with other individuals, groups, and the larger society as a whole, as well as why people act in certain ways."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Aggression and Helping** <span id="7"></span> 
 *This unit will examine the contrasting acts of aggression and helping.
 We will explore the theories, research methods, and research findings

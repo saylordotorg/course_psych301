@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH301: Social Psychology"
+course_description: "An examination of the different ways in which people interact with other individuals, groups, and the larger society as a whole, as well as why people act in certain ways."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Self and Person Perception** <span id="2"></span> 
 *This unit will focus on two areas of social psychology that may seem
 somewhat out of place in a class about groups, cultures, and societies:

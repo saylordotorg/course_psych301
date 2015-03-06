@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH301: Social Psychology"
+course_description: "An examination of the different ways in which people interact with other individuals, groups, and the larger society as a whole, as well as why people act in certain ways."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Attitude and Attitude Change** <span id="3"></span> 
 *Attitudes are an essential component of our psychological world. We
 evaluate items every day in terms of* good *and* bad *or* like *and*

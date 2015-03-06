@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH301: Social Psychology"
+course_description: "An examination of the different ways in which people interact with other individuals, groups, and the larger society as a whole, as well as why people act in certain ways."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Stereotypes, Prejudice, and Discrimination** <span
 id="5"></span> 
 *One of the negative effects of social influence is prejudice, which is

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH301: Social Psychology"
+course_description: "An examination of the different ways in which people interact with other individuals, groups, and the larger society as a whole, as well as why people act in certain ways."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Interpersonal Relationships and Attraction** <span
 id="6"></span> 
 *In this unit, we will focus on the psychology of individuals in terms

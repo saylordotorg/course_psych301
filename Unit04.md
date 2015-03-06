@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH301: Social Psychology"
+course_description: "An examination of the different ways in which people interact with other individuals, groups, and the larger society as a whole, as well as why people act in certain ways."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Social Influence** <span id="4"></span> 
 *As social beings, we are often strongly affected by the presence of
 those around us. One main focus of social psychological research has
