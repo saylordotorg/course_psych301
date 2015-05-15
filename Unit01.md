@@ -53,7 +53,7 @@ Psychology** <span id="1.1.1"></span> 
      Terms of Use: This video is licensed under a [Creative Commons
     Attribution-Noncommercial-No Derivative 3.0
     License](http://creativecommons.org/licenses/by-nc-nd/3.0/).  It is
-    attributed to Robb Willer and the University of California, Berkley,
+    attributed to Robb Willer and the University of California, Berkeley,
     and the original version can be found
     [here](http://www.youtube.com/playlist?list=PL1317EA5E1CA2DA9A).
 
