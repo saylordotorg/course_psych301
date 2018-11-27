@@ -138,7 +138,7 @@ secure and three insecure) are described in detail.*
     Close Relationships: Liking and Loving over the Long Term”**
     Link: Principles of Social Psychology: “[Chapter 8, Section 2: Close
     Relationships: Liking and Loving over the Long
-    Term](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)”
+    Term](https://resources.saylor.org/archived/textbooks/Principles%20of%20Social%20Psychology.pdf)”
     (PDF)  
         
      Instructions: Scroll down to read the section titled Individual
@@ -182,7 +182,7 @@ id="6.3.1"></span> 
     the Virtual World”**
     Link: The Saylor Foundation’s [“Attraction and Relationships in the
     Virtual
-    World”](http://www.saylor.org/site/wp-content/uploads/2013/03/PSYCH301-6.3.2-ATTRACTION-AND-RELATIONSHIPS-IN-THE-VIRTUAL-WORLD.pdf)
+    World”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/PSYCH301-6.3.2-ATTRACTION-AND-RELATIONSHIPS-IN-THE-VIRTUAL-WORLD.pdf)
     (PDF)  
         
      Instructions: For this activity, you should think about each of the
