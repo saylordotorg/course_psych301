@@ -93,7 +93,7 @@ computer;
  √    have competency in the English language;  
   
  √    have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
   
  √    have completed all courses listed in [the Core
@@ -118,7 +118,7 @@ following materials:
 -   University of Idaho: Traci Craig’s *[Social Psychology
     Lessons](http://www.class.uidaho.edu/psyc320/schedule.htm)*
 -   *[Principles of Social
-    Psychology](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)*
+    Psychology](https://resources.saylor.org/archived/textbooks/Principles%20of%20Social%20Psychology.pdf)*
 -   Psych Web: Russ Dewey’s *[Psychology: An
     Introduction](http://www.intropsych.com/index.html)*
 
