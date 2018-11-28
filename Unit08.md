@@ -161,7 +161,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: The Saylor Foundation’s “Social Psychology in the
     Virtual World”**
     Link: The Saylor Foundation’s [“Social Psychology in the Virtual
-    World”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/PSYCH301-8.5-SOCIAL-PSYCHOLOGY-IN-THE-VIRTUAL-WORLD.pdf)
+    World”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/PSYCH301-8.5-SOCIAL-PSYCHOLOGY-IN-THE-VIRTUAL-WORLD.pdf)
     (PDF)  
         
      Instructions: For this activity, you should think about each of the

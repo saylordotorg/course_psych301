@@ -79,7 +79,7 @@ Psychology** <span id="1.1.1"></span> 
     Psychology”**
     Link: San Bernardino Community College: Professor T.L.
     Brink’s *Psychology: A Student Friendly Approach*: [“Unit 13: Social
-    Psychology”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/TLBrink_PSYCH13.pdf) (PDF)  
+    Psychology”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/TLBrink_PSYCH13.pdf) (PDF)  
         
      Instructions: Read this unit, which provides an overview of
     important concepts in social psychology. You may remember social
@@ -119,7 +119,7 @@ Psychology** <span id="1.1.1"></span> 
 -   **Activity: The Saylor Foundation’s “What Grabs People’s
     Attention?”**
     Link: The Saylor Foundation’s [“What Grabs People’s
-    Attention?”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/PSYCH301-1.1.2-WHAT-GRABS-PEOPLES-ATTENTION.pdf)
+    Attention?”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/PSYCH301-1.1.2-WHAT-GRABS-PEOPLES-ATTENTION.pdf)
     (PDF)  
         
      Instructions: For this activity, you should first read and reflect
@@ -198,7 +198,7 @@ id="1.2.2"></span> 
     Psychology Just Common Sense?”**
     Link: *Principles of Social Psychology*: “[Table 1.1 Is Social
     Psychology Just Common
-    Sense?](https://resources.saylor.org/archived/textbooks/Principles%20of%20Social%20Psychology.pdf)”
+    Sense?](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Social%20Psychology.pdf)”
     (PDF)  
       
      Instructions: People often think that research in psychology is all
