@@ -105,7 +105,7 @@ id="4.2.2"></span> 
     The Many Varieties of Conformity”**
     Link: *Principles of Social Psychology*: “[Chapter 7, Section 1: The
     Many Varieties of
-    Conformity](https://resources.saylor.org/archived/textbooks/Principles%20of%20Social%20Psychology.pdf)”
+    Conformity](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Social%20Psychology.pdf)”
     (PDF)  
         
      Instructions: Read Section 7.1, pages 329-351, paying particular
@@ -192,7 +192,7 @@ id="4.2.2"></span> 
     Changing Attitudes by Changing Behavior”**
     Link: *Principles of Social Psychology*: ** “[Chapter 5, Section 3:
     Changing Attitudes by Changing
-    Behavior](https://resources.saylor.org/archived/textbooks/Principles%20of%20Social%20Psychology.pdf)” (HTML)  
+    Behavior](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Social%20Psychology.pdf)” (HTML)  
         
      Instructions: Note this chapter will cover the topics outlined in
     subunits 4.3.1-4.3.3. For this reading, scroll down the web page
